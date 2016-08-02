@@ -1,0 +1,19 @@
+{
+  "name": "webmapsdemo",
+  "version": "0.1",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwolniak/webmapsdemo.git"
+  },
+  "description": "A demo application for Leaflet.js maps",
+  "author": "Ryan Wolniak <wolniak_ryan@bah.com>",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0",
+    "leaflet": "^0.7.7"
+  },
+  "devDependencies": {
+    "hjs-webpack": "^8.3.0"
+  }
+}
